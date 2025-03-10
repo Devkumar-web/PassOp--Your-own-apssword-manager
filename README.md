@@ -18,6 +18,9 @@
 
 ## 🎥 Project Screenshot
 ![PassOp Screenshot](./demo1.png.png)
+![PassOp Screenshot](./demo2.png.png)
+![PassOp Screenshot](./demo3.png.png)
+
 
 ## 🚀 How to Run the Project
 ### 1️⃣ Clone the repository
