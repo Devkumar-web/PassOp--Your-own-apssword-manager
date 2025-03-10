@@ -1,12 +1,57 @@
-# React + Vite
+# 🔐 PassOp - Your Own Password Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
+**PassOp** is a secure and user-friendly **password manager** built using **React.js** for the frontend and **MongoDB** for the backend. It allows users to store and manage their credentials securely by saving **site URLs, usernames, and passwords** in an encrypted database.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- 🔑 **Securely store passwords** in an encrypted database.
+- 🌐 **Save website URLs**, usernames, and passwords with ease.
+- 🔍 **Search and filter saved credentials** quickly.
+- 🛡️ **Data encryption for maximum security.**
+- 📱 **Responsive UI for all devices.**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+- **Frontend**: React.js, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Security**: Bcrypt for encryption
 
-## Expanding the ESLint configuration
+## 🎥 Project Screenshot
+![PassOp Screenshot](./screenshots/passop-demo.png)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 How to Run the Project
+### 1️⃣ Clone the repository
+```sh
+ git clone https://github.com/DevKumar-web/PassOp - Your-own-password-manager.git
+```
+
+### 3️⃣ Install dependencies for both frontend and backend
+```sh
+ cd client && npm install  # Install frontend dependencies
+ cd ../server && npm install  # Install backend dependencies
+```
+### 4️⃣ Start the development server
+```sh
+# Start backend server
+cd backend
+npm start
+
+# Open a new terminal and start frontend
+cd client
+npm start
+```
+### 5️⃣ Open in Browser
+Go to `http://localhost:3000` to use the app.
+
+## 🌟 Future Enhancements
+- 📢 **Add multi-user support with authentication**
+- 🔔 **Enable password strength checker**
+- ☁️ **Cloud backup option for extra security**
+- 🔒 **Two-factor authentication (2FA)**
+
+## 📜 License
+This project is licensed under the **MIT License**.
+
+---
+🚀 **PassOp: Your Own Password Manager** | Secure, Fast, and Reliable 🔐
+
