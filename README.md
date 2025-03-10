@@ -17,7 +17,7 @@
 - **Security**: Bcrypt for encryption
 
 ## 🎥 Project Screenshot
-![PassOp Screenshot](./screenshots/passop-demo.png)
+![PassOp Screenshot](./demo1.png)
 
 ## 🚀 How to Run the Project
 ### 1️⃣ Clone the repository
